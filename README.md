@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ddunia680
-- 👀 I’m interested in programming (Mobile and Web)
-- 🌱 I’m currently learning Android studio and further development tools on Web
-- 💞️ I’m looking to collaborate on any web project and soon enough android 
 - 📫 How to reach me? My email add is ddunia680@gmail.com
 
 <!---
